@@ -1,7 +1,7 @@
 {
   "resources": [
-    {"id":{"name":"SPR_DungeonStuff","path":"sprites/SPR_DungeonStuff/SPR_DungeonStuff.yy",},"order":6,},
     {"id":{"name":"SCRP_Macro","path":"scripts/SCRP_Macro/SCRP_Macro.yy",},"order":0,},
+    {"id":{"name":"OBJ_Chest","path":"objects/OBJ_Chest/OBJ_Chest.yy",},"order":2,},
     {"id":{"name":"OBJ_Player","path":"objects/OBJ_Player/OBJ_Player.yy",},"order":0,},
     {"id":{"name":"SPR_PlayerUp","path":"sprites/SPR_PlayerUp/SPR_PlayerUp.yy",},"order":3,},
     {"id":{"name":"SPR_PlayerLeft","path":"sprites/SPR_PlayerLeft/SPR_PlayerLeft.yy",},"order":2,},
@@ -43,6 +43,7 @@
     {"folderPath":"folders/Animation Curves.yy","order":12,"resourceVersion":"1.0","name":"Animation Curves","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Notes.yy","order":13,"resourceVersion":"1.0","name":"Notes","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Extensions.yy","order":14,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/Chest.yy","order":6,"resourceVersion":"1.0","name":"Chest","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},

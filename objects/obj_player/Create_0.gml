@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Player Character!
 // You can write your code in this editor
 
 XSPD = 0;
