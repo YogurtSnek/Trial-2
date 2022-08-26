@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"SPR_DungeonStuff","path":"sprites/SPR_DungeonStuff/SPR_DungeonStuff.yy",},"order":6,},
     {"id":{"name":"SCRP_Macro","path":"scripts/SCRP_Macro/SCRP_Macro.yy",},"order":0,},
     {"id":{"name":"OBJ_Player","path":"objects/OBJ_Player/OBJ_Player.yy",},"order":0,},
     {"id":{"name":"SPR_PlayerUp","path":"sprites/SPR_PlayerUp/SPR_PlayerUp.yy",},"order":3,},
