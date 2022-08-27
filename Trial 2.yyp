@@ -1,6 +1,5 @@
 {
   "resources": [
-    {"id":{"name":"SPR_Textbox","path":"sprites/SPR_Textbox/SPR_Textbox.yy",},"order":9,},
     {"id":{"name":"RM_MenuScreen","path":"rooms/RM_MenuScreen/RM_MenuScreen.yy",},"order":0,},
     {"id":{"name":"SCRP_Macro","path":"scripts/SCRP_Macro/SCRP_Macro.yy",},"order":0,},
     {"id":{"name":"SPR_TestTiles","path":"sprites/SPR_TestTiles/SPR_TestTiles.yy",},"order":8,},
@@ -9,6 +8,7 @@
     {"id":{"name":"OBJ_Menu","path":"objects/OBJ_Menu/OBJ_Menu.yy",},"order":3,},
     {"id":{"name":"SPR_PlayerUp","path":"sprites/SPR_PlayerUp/SPR_PlayerUp.yy",},"order":3,},
     {"id":{"name":"SPR_PlayerLeft","path":"sprites/SPR_PlayerLeft/SPR_PlayerLeft.yy",},"order":2,},
+    {"id":{"name":"Sprite10","path":"sprites/Sprite10/Sprite10.yy",},"order":5,},
     {"id":{"name":"SPR_Door","path":"sprites/SPR_Door/SPR_Door.yy",},"order":7,},
     {"id":{"name":"SPR_PlayerRight","path":"sprites/SPR_PlayerRight/SPR_PlayerRight.yy",},"order":0,},
     {"id":{"name":"OBJ_Door","path":"objects/OBJ_Door/OBJ_Door.yy",},"order":3,},

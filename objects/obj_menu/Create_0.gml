@@ -1,11 +1,13 @@
 /// @description 
 
 
-width = 128;
+width = 154;
 height = 204;
 
-op_border = 8; //space between the border of the menu and the options
-op_space = 16; //space between the options
+xop_border = 28; //space between the border of the menu and the options
+yop_border = 38;
+
+op_space = 32; //space between the options
 
 option[0] = "Start Game";
 option[1] = "Settings";
