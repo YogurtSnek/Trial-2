@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"SPR_Textbox","path":"sprites/SPR_Textbox/SPR_Textbox.yy",},"order":9,},
     {"id":{"name":"RM_MenuScreen","path":"rooms/RM_MenuScreen/RM_MenuScreen.yy",},"order":0,},
     {"id":{"name":"SCRP_Macro","path":"scripts/SCRP_Macro/SCRP_Macro.yy",},"order":0,},
     {"id":{"name":"SPR_TestTiles","path":"sprites/SPR_TestTiles/SPR_TestTiles.yy",},"order":8,},
