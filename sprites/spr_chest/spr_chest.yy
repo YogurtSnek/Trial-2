@@ -1,5 +1,5 @@
 {
-  "bboxMode": 0,
+  "bboxMode": 2,
   "collisionKind": 1,
   "type": 0,
   "origin": 0,
@@ -9,7 +9,7 @@
   "swfPrecision": 2.525,
   "bbox_left": 0,
   "bbox_right": 15,
-  "bbox_top": 0,
+  "bbox_top": 9,
   "bbox_bottom": 13,
   "HTile": false,
   "VTile": false,
@@ -113,8 +113,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Chest",
+    "path": "folders/Sprites/Chest.yy",
   },
   "resourceVersion": "1.0",
   "name": "SPR_Chest",

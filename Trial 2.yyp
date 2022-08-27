@@ -9,7 +9,7 @@
     {"id":{"name":"SPR_PlayerRight","path":"sprites/SPR_PlayerRight/SPR_PlayerRight.yy",},"order":0,},
     {"id":{"name":"SPR_PlayerDown","path":"sprites/SPR_PlayerDown/SPR_PlayerDown.yy",},"order":4,},
     {"id":{"name":"TS_DirtTiles","path":"tilesets/TS_DirtTiles/TS_DirtTiles.yy",},"order":0,},
-    {"id":{"name":"SPR_Chest","path":"sprites/SPR_Chest/SPR_Chest.yy",},"order":7,},
+    {"id":{"name":"SPR_Chest","path":"sprites/SPR_Chest/SPR_Chest.yy",},"order":0,},
     {"id":{"name":"OBJ_Wall","path":"objects/OBJ_Wall/OBJ_Wall.yy",},"order":1,},
     {"id":{"name":"SPR_Wall","path":"sprites/SPR_Wall/SPR_Wall.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
