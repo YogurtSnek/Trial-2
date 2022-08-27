@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"RM_MenuScreen","path":"rooms/RM_MenuScreen/RM_MenuScreen.yy",},"order":0,},
     {"id":{"name":"SCRP_Macro","path":"scripts/SCRP_Macro/SCRP_Macro.yy",},"order":0,},
     {"id":{"name":"SPR_TestTiles","path":"sprites/SPR_TestTiles/SPR_TestTiles.yy",},"order":8,},
     {"id":{"name":"OBJ_Chest","path":"objects/OBJ_Chest/OBJ_Chest.yy",},"order":2,},
@@ -9,8 +10,10 @@
     {"id":{"name":"SPR_Door","path":"sprites/SPR_Door/SPR_Door.yy",},"order":7,},
     {"id":{"name":"SPR_PlayerRight","path":"sprites/SPR_PlayerRight/SPR_PlayerRight.yy",},"order":0,},
     {"id":{"name":"OBJ_Door","path":"objects/OBJ_Door/OBJ_Door.yy",},"order":3,},
+    {"id":{"name":"FT_M5X7_DanielLinssen","path":"fonts/FT_M5X7_DanielLinssen/FT_M5X7_DanielLinssen.yy",},"order":1,},
     {"id":{"name":"SPR_PlayerDown","path":"sprites/SPR_PlayerDown/SPR_PlayerDown.yy",},"order":4,},
     {"id":{"name":"TS_DirtTiles","path":"tilesets/TS_DirtTiles/TS_DirtTiles.yy",},"order":0,},
+    {"id":{"name":"SPR_MenuBG","path":"sprites/SPR_MenuBG/SPR_MenuBG.yy",},"order":2,},
     {"id":{"name":"SPR_Chest","path":"sprites/SPR_Chest/SPR_Chest.yy",},"order":0,},
     {"id":{"name":"OBJ_Wall","path":"objects/OBJ_Wall/OBJ_Wall.yy",},"order":1,},
     {"id":{"name":"SPR_Wall","path":"sprites/SPR_Wall/SPR_Wall.yy",},"order":1,},
@@ -29,6 +32,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"RM_MenuScreen","path":"rooms/RM_MenuScreen/RM_MenuScreen.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -46,6 +50,7 @@
     {"folderPath":"folders/Notes.yy","order":13,"resourceVersion":"1.0","name":"Notes","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Extensions.yy","order":14,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Chest.yy","order":6,"resourceVersion":"1.0","name":"Chest","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Menu System.yy","order":15,"resourceVersion":"1.0","name":"Menu System","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
