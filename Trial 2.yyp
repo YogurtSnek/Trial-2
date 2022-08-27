@@ -1,11 +1,12 @@
 {
   "resources": [
     {"id":{"name":"SCRP_Macro","path":"scripts/SCRP_Macro/SCRP_Macro.yy",},"order":0,},
+    {"id":{"name":"OBJ_Door","path":"objects/OBJ_Door/OBJ_Door.yy",},"order":3,},
     {"id":{"name":"OBJ_Chest","path":"objects/OBJ_Chest/OBJ_Chest.yy",},"order":2,},
     {"id":{"name":"OBJ_Player","path":"objects/OBJ_Player/OBJ_Player.yy",},"order":0,},
     {"id":{"name":"SPR_PlayerUp","path":"sprites/SPR_PlayerUp/SPR_PlayerUp.yy",},"order":3,},
     {"id":{"name":"SPR_PlayerLeft","path":"sprites/SPR_PlayerLeft/SPR_PlayerLeft.yy",},"order":2,},
-    {"id":{"name":"SPR_DirtTile","path":"sprites/SPR_DirtTile/SPR_DirtTile.yy",},"order":5,},
+    {"id":{"name":"SPR_TestTiles","path":"sprites/SPR_TestTiles/SPR_TestTiles.yy",},"order":5,},
     {"id":{"name":"SPR_PlayerRight","path":"sprites/SPR_PlayerRight/SPR_PlayerRight.yy",},"order":0,},
     {"id":{"name":"SPR_PlayerDown","path":"sprites/SPR_PlayerDown/SPR_PlayerDown.yy",},"order":4,},
     {"id":{"name":"TS_DirtTiles","path":"tilesets/TS_DirtTiles/TS_DirtTiles.yy",},"order":0,},
